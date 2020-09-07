@@ -1,0 +1,43 @@
+.container1 {
+    margin: auto auto auto 0px;
+    border-width: 10px;
+    display: inline-block;
+    width: 250px;
+    padding-bottom: 100%;
+    //position: fixed;
+    background-color: #d6e0f0;
+}
+
+.margi {
+    margin: 2px;
+}
+
+hr {
+    height: 2px;
+    background-color: blue;
+}
+
+.vl {
+    border-left: 6px solid blue;
+    height: 100%;
+    position: absolute;
+    margin: 66px auto auto 80px;
+    top: 0;
+    display: inline-block;
+}
+
+.t-1 {
+    margin: 0px 0px 0px 0px;
+    position: relative;
+    height: 80px;
+    width: 2800px;
+    left: 280px;
+    bottom: 1800px;
+    background-color: #f7fbe1;
+}
+
+.d-1 {
+    position: absolute;
+    right: 30px;
+    bottom: 11px;
+}
